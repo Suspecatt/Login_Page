@@ -18,16 +18,9 @@
       padding-top: 30px;
       text-align: center;
       flex-direction: column;
-      margin: 12px;
+      margin: 12px 0;
    }
 }
-
-@media (min-height: 361px) {
-   .container menu {
-      display: none;
-   }
-}
-
 @media (max-width: 1000px) {
    .container {
       padding: 0px 20px;
