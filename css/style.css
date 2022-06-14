@@ -134,9 +134,10 @@ a {
    height: 225px;
 }
 .image img {
+   width: 101%;
    position: absolute;
    border-radius: 10px;
-   top: 0;
+   top:0;
    left: 50%;
    transform: translate(-50%);
 }
