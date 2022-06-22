@@ -1,4 +1,3 @@
-# Class Startse Page Copy 
-A StartSe login page copy made in live class.
+# Página de Login StartSe 
 
-Made to learn
+Cópia de uma página de Login da StartSe
